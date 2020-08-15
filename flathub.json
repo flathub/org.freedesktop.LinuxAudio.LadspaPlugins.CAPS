@@ -1,3 +1,5 @@
 {
+    "end-of-life": "The plugin has been renamed to org.freedesktop.LinuxAudio.Plugins.CAPS",
+    "end-of-life-rebase": "org.freedesktop.LinuxAudio.Plugins.CAPS",
     "skip-icons-check": true
 }
